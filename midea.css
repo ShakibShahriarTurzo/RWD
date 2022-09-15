@@ -1,0 +1,164 @@
+    @media only screen and (min-width:200px) and (max-width: 600px) {
+        .col-s-1 {
+            width: 8.33%;
+            float: left
+        }
+        .col-s-2 {
+            width: 16.66%;
+            float: left
+        }
+        .col-s-3 {
+            width: 25%;
+            float: left
+        }
+        .col-s-4 {
+            width: 33.33%;
+            float: left
+        }
+        .col-s-5 {
+            width: 41.66%;
+            float: left
+        }
+        .col-s-6 {
+            width: 50%;
+            float: left
+        }
+        .col-s-7 {
+            width: 58.33%;
+            float: left
+        }
+        .col-s-8 {
+            width: 66.66%;
+            float: left
+        }
+        .col-s-9 {
+            width: 75%;
+            float: left
+        }
+        .col-s-10 {
+            width: 83.33%;
+            float: left
+        }
+        .col-s-11 {
+            width: 91.66%;
+            float: left
+        }
+        .col-s-12 {
+            width: 100%;
+            float: left
+        }
+        /* Header Section  */
+        * {
+            margin: 0;
+            padding: 0;
+            border: 0;
+            outline: none;
+            box-sizing: border-box;
+            font-family: 'Dosis', sans-serif;
+        }
+        .logo-part {
+            text-align: center;
+        }
+        .menu-part a {
+            font-size: 20px;
+        }
+        .seach-part {
+            text-align: center;
+            padding: 20px 0px;
+        }
+        .writing-part h1 {
+            font-size: 30px;
+            text-align: center;
+        }
+        .body-part {
+            margin-top: -60px;
+        }
+        .writing-part p {
+            font-size: 12px;
+            text-align: center;
+        }
+        .writing-part img {
+            visibility: hidden;
+        }
+        /* 3rd section  */
+        .writing-partt h1 {
+            font-size: 20px;
+        }
+        li {
+            padding: 2%px;
+        }
+        .p-best-ever-groupp {
+            margin-bottom: -2px;
+        }
+        .writing-part-section-four {
+            text-align: center;
+            font-size: 20px;
+        }
+        .mobile-image {
+            visibility: hidden;
+            width: 0px;
+        }
+        .picture-ogcode {
+            width: 400px;
+        }
+        lii {
+            text-align: center;
+        }
+        .writing-part-section-fifth {
+            text-align: center;
+        }
+        .picture-part-fifth img {
+            width: 80px;
+        }
+        .pic-one {
+            text-align: center;
+        }
+        .pic-two {
+            margin-left: 112px;
+            margin-top: 20px;
+        }
+        .img-section-part-nonth img {
+            width: 0px;
+            visibility: hidden;
+        }
+        .download-section-tenth {
+            margin-top: 50%;
+            visibility: hidden;
+        }
+        .p-section-part-ninth p {
+            text-align: center;
+            margin-left: -222px;
+        }
+        .img-section-ninth {
+            text-align: center;
+            margin-left: -40px;
+        }
+        .one {
+            width: 100px;
+            margin-left: -52px;
+        }
+        .two {
+            width: 100px;
+            margin-left: 65px;
+            margin-top: -29px;
+        }
+        .writing-part-section-ninth h1 {
+            font-size: 20px;
+            margin-left: -45px;
+        }
+        .part-one h1 {
+            font-size: 12px;
+        }
+        .part-one p {
+            font-size: 5px;
+        }
+        .body-section-for-tenth h1 {
+            font-size: 20px;
+        }
+        .form {
+            width: 305px;
+        }
+        .img-final-section {
+            width: 495px;
+        }
+    }
